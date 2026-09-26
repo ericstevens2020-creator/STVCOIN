@@ -1,0 +1,11 @@
+{
+  "consensus_version": "v0.5.2",
+  "core_code_sha256": "670bdb5af00672e2a69850814208e6c305674212e179142cd8b4f79e2ee469bb",
+  "deployment_security_revision": "r15",
+  "format": "StevensBuildIdentity",
+  "kit_version": "v2.3",
+  "network_id": "stevens-testnet-v0.5.2",
+  "sentinel_version": "v1.1",
+  "version": 1,
+  "wallet_format": 2
+}

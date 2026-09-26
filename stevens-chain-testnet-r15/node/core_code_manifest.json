@@ -1,0 +1,16 @@
+{
+  "aggregate_sha256": "670bdb5af00672e2a69850814208e6c305674212e179142cd8b4f79e2ee469bb",
+  "files": {
+    "node/snapshot_trust_v1.py": "c3b45decc529e251f74acd635e682e59d524949ea06d422e6a329b7e0e99a446",
+    "node/snapshot_trust_v2.py": "6e129dccc013fdc674e8e87288361f562bc7fad612cdef75fd983f3aa2e58219",
+    "node/snapshot_trust_v3.py": "64af3edd5f830cc314665eba0dc0b99a6add60c13807395cccc31c18ee672cba",
+    "node/snapshotctl.py": "f4a2ae67ca6e7478e4c6fbf662a6d7aa4207a2cfa6a33e9d3e955aa8589db7f7",
+    "node/stevens_chain_v0_3.py": "92ff410276f108929e7a0688784239d80bf19ab642e2ba17d4300bd3339f3226",
+    "node/stevens_public_testnet_node_v1_1.py": "dcb2cce096db02dc2869061ea3a7b9b13d7d81fb5289a56c06652246f970fb83",
+    "node/stevens_sentinel_v1_1.py": "bb420072e1de21dbc0ce54394cbdc50ea23b0b962d6f3ee0c19c202d4ad5d977",
+    "node/stevens_testnet_v0_5.py": "536f96c1d4d1a92b6eda86f79abec003b279327269ecda2fd30d1ebc80d2db4a",
+    "node/stevens_testnet_v0_5_2_sentinel_v1_1.py": "5ce1f367ebbe70344ad9a5e73aa9ed965f8c6f4443a8a4857bdf4d88b9ca029b"
+  },
+  "format": "StevensCoreCodeManifest",
+  "version": 1
+}

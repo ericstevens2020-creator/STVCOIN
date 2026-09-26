@@ -1,0 +1,51 @@
+{
+  "network": "stevens-testnet-v0.5.2",
+  "note_encryption_scheme": "STEVENS128+CHACHA20POLY1305-V2",
+  "required_inner_stevens_rounds": 16,
+  "timestamp_policy": {
+    "median_time_window": 11,
+    "max_future_block_seconds": 120
+  },
+  "block": {
+    "version": 2,
+    "chain": "Stevens Chain",
+    "height": 0,
+    "previous_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+    "timestamp": 1787240862,
+    "merkle_root": "30c4e9a9c60f78237978c1ffc99b899ae9d822ff1669549b843bea6e7545c294",
+    "difficulty_bits": 12,
+    "nonce": 6887,
+    "transactions": [
+      {
+        "version": 2,
+        "chain": "Stevens Chain",
+        "kind": "genesis",
+        "height": 0,
+        "inputs": [],
+        "fee": 0,
+        "outputs": [
+          {
+            "owner_address": "STV1313bae5776f957537f57b51fd693bbeaaf962d3e",
+            "owner_sign_pub": "469117beb9260ba262b605584c14cf199e918fab2bc6e36b86ec5c38848d3e43",
+            "owner_enc_pub": "1fc10a34fcb17bbd19866708c3b8ff237b8d9fcef6f86dae1e265e3131a4d10e",
+            "amount": 100000000,
+            "ephemeral_enc_pub": "7942f985355ce6e554e4f8d4c67efe23c4fee809c8315684f30a973f379b3f08",
+            "kdf_salt": "acee485fe628c76789de67bfee8820cec7acbfe765be65f59565e5e8d1fa4b3c",
+            "note_commitment": "6d2a1c9e5959863846ad60966d291a5bb8cddb76c00e7da16536c31393304e03",
+            "encryption_scheme": "STEVENS128+CHACHA20POLY1305-V2",
+            "inner_stevens_rounds": 16,
+            "outer_nonce": "013f6f9c8a6dbfbf26b8c87b",
+            "encrypted_note": "v6mtkMEUDizbxnjtI4BjVro+kbd8zYra7J3vSDN0eTRzbNdinKTEeV+oi9SEcK8qroPwWV5RIzeHRAhcYfgqZIUUuKrXUkcI7ogE6bon+GbHhBDKJvjhQUAa3Up5z/XuyimfB8LU+4lq70LnSKjaUJxDOIK+WXzbyW6eu46MdaOXODXK52U6ZugMYvBN6vcCFyFNeCMM0bXmcOaP0YitmdkW42DgW+pS7GBeeXzF7kNMdVnTz5afv79PCefBEvgpMnPvLU/nYe5quWb8Qpj+mcG6aFetzpO47te6nGWrjMC/LUm0JaBBOE6pg1vTV+Ea4H4eb0rhfgwXAXMKow0UF+NAhKa2Q0air8PxobXyEa9L7A7/r0KplbyDg+g6m6AchR3dMxal+vmCgAoLhk46"
+          }
+        ],
+        "txid": "30c4e9a9c60f78237978c1ffc99b899ae9d822ff1669549b843bea6e7545c294"
+      }
+    ],
+    "hash": "000080839a14b2f36823d5dda2fcaf98ec04669ec6a3a52f8b2b395b698c9290"
+  },
+  "genesis_recipient": {
+    "address": "STV1313bae5776f957537f57b51fd693bbeaaf962d3e",
+    "sign_pub": "469117beb9260ba262b605584c14cf199e918fab2bc6e36b86ec5c38848d3e43",
+    "enc_pub": "1fc10a34fcb17bbd19866708c3b8ff237b8d9fcef6f86dae1e265e3131a4d10e"
+  }
+}

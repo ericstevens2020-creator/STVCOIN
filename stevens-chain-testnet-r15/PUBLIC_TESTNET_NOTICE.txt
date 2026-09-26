@@ -1,0 +1,12 @@
+Stevens Chain Public Testnet
+Network: stevens-testnet-v0.5.2
+Consensus version: v0.5.2
+Deployment security revision: r15
+Sentinel version: v1.1
+
+This package is for the Stevens Chain public testnet.
+
+TEST TOKENS HAVE NO MONETARY VALUE.
+
+Do not use testnet wallets, keys, credentials, recovery material,
+or tokens for any production or mainnet system.
